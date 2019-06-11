@@ -21,7 +21,14 @@ git init
 
 `git commit -m "file added"`  ==> to commit files we have added. `-m` means message.
 
-
 `git checkout file_name` . ==> match the values from last commit.
 
 `git checkout -f`         ==> match the values from last commit for all files.
+
+`git log`      ==> which person commited what ...
+
+`git log -p -1` .  ==> last 1 log
+
+`git log -p 10`     ==> last 10 logs.
+
+`git diff ` . ==> to see changes before commiting.
