@@ -3,6 +3,11 @@
 ### Profile setup
 
 ```
-root@tryit-deep:~# git config --global user.name ajay                                                                                                  
-root@tryit-deep:~# git config --global user.email ajay.kumar.awscloud@gmail.com     
+git config --global user.name ajay                                                                        
+git config --global user.email ajay.kumar.awscloud@gmail.com    
+git init
+
 ```
+
+
+`git status`  ==> status of untracked files.
